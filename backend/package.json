@@ -14,7 +14,7 @@
     "cors": "^2.8.3",
     "express": "^4.17.1",
     "mime": "^2.4.4",
-    "mongoose": "^4.11.1",
+    "mongoose": "^5.7.5",
     "node-restful": "^0.2.6"
   }
 }
